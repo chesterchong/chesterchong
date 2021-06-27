@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold&count_private=true"/></p>
 
 <!---
 chesterchong/chesterchong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
