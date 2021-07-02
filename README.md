@@ -12,6 +12,19 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold&count_private=true"/></p>
 
+---
+
+### 42 Kuala Lumpur
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=cmin-kit)](https://github.com/chesterchong)
+[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded)](https://github.com/mbari/badge42)
+
+---
+
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chesterchong&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 chesterchong/chesterchong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
