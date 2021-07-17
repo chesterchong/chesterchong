@@ -16,8 +16,7 @@
 
 ### 42 Kuala Lumpur
 
-<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=cmin-kit)](https://github.com/chesterchong) -->
-[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded)](https://github.com/chesterchong)
+[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded&privacyName=true)](https://github.com/chesterchong)
 
 ---
 
