@@ -23,8 +23,12 @@
 ### Currently Learning
 
 - ✨Cyber security
-- ✨Java, Python, C, C#, JS, C++
+- ✨Java, Python, C
+
+### Upcoming
 - ✨Deep Learning
+- ✨C#, JS, C++
+- ✨SaaS
 
 ### Languages
 
