@@ -1,50 +1,59 @@
-<p align="center">
-  <a target="_blank" href="https://www.instagram.com/chong_mk/">
-    <img src="https://img.shields.io/badge/My%20Instagram--white?style=plastic&logo=instagram" alt="My Instagram" />
-  </a>
-  <a target="_blank" href="https://www.google.com">
-    <img src="https://img.shields.io/badge/My%20Website--white?style=plastic&logo=workplace" alt="My Biography" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/chesterchongmk/">
-    <img src="https://img.shields.io/badge/My%20LinkedIn--white?style=plastic&logo=linkedin" alt="My LinkedIn" />
-  </a>
+### 👋 Hi there
+- 🌱 I am currently learning C and C++ 📚
+
+<table width="100%">
+  <tr>
+  <td width="50%">
+    
+&nbsp; <br> [![Spotify](https://readme-spotify-chesterchong.vercel.app/api/spotify)](https://open.spotify.com/user/hcchbmbacc1virxans1izbtgq)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center"> ⚡ Fun fact <br>
+    I enjoy eating and traveling <br><br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn--white?style=plastic&logo=linkedin)][linkedin]
+  [![Instagram](https://img.shields.io/badge/Instagram--white?style=plastic&logo=instagram)][instagram]
+  [![Dev.to](https://img.shields.io/badge/Dev.to--white?style=plastic&logo=devdotto)][devto]
 </p>
-
-<p align="center"><img src="https://github-readme-stats-chesterchong.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold"/></p>
-
----
-
-### 42 Kuala Lumpur
-
-[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded&privacyName=true)](https://github.com/chesterchong)
+  </td>
+  </table>
 
 ---
 
-### Currently Learning
+### 🔥 Github Stats
 
-- ✨Cyber security
-- ✨Java, Python, C
+<table>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats-chesterchong.vercel.app"><img src="https://github-readme-stats-chesterchong.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold" alt="Github Stats" title="Github Stats" /></a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats-chesterchong.vercel.app"><img align="center" src="https://github-readme-stats-chesterchong.vercel.app/api/top-langs/?username=chesterchong&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages" title="Top Languages" /></a>
+    </td>
+  </tr>
+</table>
 
-### Currently Playing
+---
 
-[![Spotify](https://readme-spotify-chesterchong.vercel.app/api/spotify)](https://open.spotify.com/user/hcchbmbacc1virxans1izbtgq)
+### 🖥️ 42 Kuala Lumpur
 
+[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded&privacyName=true&darkmode=true)](https://github.com/chesterchong)
 
-### Upcoming
-- ✨Deep Learning
-- ✨C#, JS, C++
-- ✨SaaS
+---
 
-### Top Languages
-<p><img src="https://github-readme-stats-chesterchong.vercel.app/api/top-langs/?username=chesterchong&layout=compact&text_color=daf7dc&bg_color=151515"/></p>
+### ⚡ Recent Activity
 
-### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/2) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
 2. ❗️ Closed issue [#2](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/2) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
 3. ❗️ Closed issue [#1](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/1) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
 4. 🗣 Commented on [#1](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/1) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
 <!--END_SECTION:activity-->
+
+[linkedin]: https://www.linkedin.com/in/chesterchongmk/
+[instagram]: https://www.instagram.com/chong_mk/
+[devto]: https://dev.to/chesterchong/
 
 <!---
 chesterchong/chesterchong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
