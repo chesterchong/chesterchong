@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold"/></p>
+<p align="center"><img src="https://github-readme-stats-chesterchong.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold"/></p>
 
 ---
 
