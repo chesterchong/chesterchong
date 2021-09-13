@@ -25,6 +25,11 @@
 - ✨Cyber security
 - ✨Java, Python, C
 
+### Currently Playing
+
+[![Spotify](https://readme-spotify-chesterchong.vercel.app/api/spotify)](https://open.spotify.com/user/hcchbmbacc1virxans1izbtgq)
+
+
 ### Upcoming
 - ✨Deep Learning
 - ✨C#, JS, C++
