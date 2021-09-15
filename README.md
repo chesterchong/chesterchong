@@ -1,5 +1,6 @@
 ### 👋 Hi there
 - 🌱 I am currently learning C and C++ 📚
+- I did not choose the code life, the code life chose me 😐
 
 <table width="100%">
   <tr>
