@@ -1,8 +1,7 @@
 ### 👋 Hi there
 - 🌱 I am currently learning C and C++ 📚
 - I did not choose the code life, the code life chose me 😐
-- ⚡ Fun fact:
-- I am an aviation enthusiast , one of my fav ♥ jets is F-35 Lightning II ✈
+- ⚡ Fun fact: I am an aviation enthusiast , one of my fav ♥ jets is F-35 Lightning II ✈
 
 <table width="100%">
   <tr>
@@ -13,8 +12,8 @@
   </td>
   <td width="50%">
 
-<br><p align="center"> ⭐ Reach me here <br>
-    HMU if you enjoy eating and travelling <br><br>
+<br><p align="center"> ⭐ Reach me here ⭐ <br>
+    <br><br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn--white?style=plastic&logo=linkedin)][linkedin]
   [![Instagram](https://img.shields.io/badge/Instagram--white?style=plastic&logo=instagram)][instagram]
   [![Dev.to](https://img.shields.io/badge/Dev.to--white?style=plastic&logo=devdotto)][devto]
