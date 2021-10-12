@@ -47,10 +47,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/2) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
-2. ❗️ Closed issue [#2](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/2) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
-3. ❗️ Closed issue [#1](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/1) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
-4. 🗣 Commented on [#1](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/1) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
+1. 🗣 Commented on [#75](https://github.com/steam3d/MagicPods-Windows/issues/75) in [steam3d/MagicPods-Windows](https://github.com/steam3d/MagicPods-Windows)
+2. 🗣 Commented on [#2](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/2) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
+3. ❗️ Closed issue [#2](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/2) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
+4. ❗️ Closed issue [#1](https://github.com/chesterchong/TickTick-Windows-4.02-Crack/issues/1) in [chesterchong/TickTick-Windows-4.02-Crack](https://github.com/chesterchong/TickTick-Windows-4.02-Crack)
 <!--END_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/chesterchongmk/
