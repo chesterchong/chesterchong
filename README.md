@@ -1,7 +1,6 @@
 ### 👋 Hi there
 - 🌱 I am currently learning C and C++ 📚
 - I did not choose the code life, the code life chose me 😐
-- ⚡ Fun fact: I am an aviation enthusiast , one of my fav ♥ jets is F-35 Lightning II ✈
 
 <table width="100%">
   <tr>
