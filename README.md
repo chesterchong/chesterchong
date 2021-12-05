@@ -1,9 +1,6 @@
 ### 👋 Hi there
-- 🌱 I used to hate math, coding, and reading. 📚
--  But now, I realised math is the universal language, coding is a magic, and reading is a way to gain wisdom.😐
-
-- Learning C++ on the weekdays and working on some side projects during weekends.
-- Everything is an opportunity, the more you do, the more opportunity you will get.
+- 🌱 Welcome to my world 📚
+- Hi, I create bugs everyday😐
 
 <table width="100%">
   <tr>
