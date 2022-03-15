@@ -14,7 +14,7 @@
 <br><p align="center"> ⭐ Reach me here ⭐ <br>
     <br><br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn--white?style=plastic&logo=linkedin)][linkedin]
-  [![Instagram](https://img.shields.io/badge/Instagram--white?style=plastic&logo=instagram)][instagram]
+<!--   [![Instagram](https://img.shields.io/badge/Instagram--white?style=plastic&logo=instagram)][instagram] -->
   [![Dev.to](https://img.shields.io/badge/Dev.to--white?style=plastic&logo=devdotto)][devto]
 </p>
   </td>
@@ -37,13 +37,13 @@
 
 ---
 
-### 🖥️ 42 Kuala Lumpur
+<!-- ### 🖥️ 42 Kuala Lumpur
 
-[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded&privacyName=true&darkmode=true)](https://github.com/chesterchong)
+[![chester's 42 stats](https://badge42.herokuapp.com/api/stats/cmin-kit?cursus=C%20reloaded&privacyName=true&darkmode=true)](https://github.com/chesterchong) -->
 
 
 [linkedin]: https://www.linkedin.com/in/chesterchongmk/
-[instagram]: https://www.instagram.com/chong_mk/
+<!-- [instagram]: https://www.instagram.com/chong_mk/ -->
 [devto]: https://dev.to/chesterchong/
 
 <!---
