@@ -11,7 +11,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center"> ⭐ About Me ⭐ <br>
+<br><p align="center"> ⭐ Hello ⭐ <br>
     <br>
     [![Visits](https://komarev.com/ghpvc/?username=chesterchong&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/chesterchong)
     <br>
