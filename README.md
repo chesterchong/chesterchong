@@ -12,8 +12,9 @@
   <td width="50%">
 
 <br><p align="center"> ⭐ About Me ⭐ <br>
-    <br><br>
+    <br>
     I love Shingeki No Kyojin (AoT) <3
+    <br>
 </p>
   </td>
   </table>
