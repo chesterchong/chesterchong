@@ -13,7 +13,7 @@
 
 <br><p align="center"> ⭐ About Me ⭐ <br>
     <br>
-    I love Shingeki No Kyojin (AoT) <3
+    [![Visits](https://komarev.com/ghpvc/?username=chesterchong&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/chesterchong)
     <br>
 </p>
   </td>
