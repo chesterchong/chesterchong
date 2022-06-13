@@ -1,6 +1,8 @@
 ### 👋 Hi there
-- 🌱 Welcome to my world 📚
-- Hi, I create bugs everyday😐
+- 🌱 Welcome to my Github profile 📚
+
+- I mainly speak: Java, C++, and Solidity.
+
 
 <table width="100%">
   <tr>
