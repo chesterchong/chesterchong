@@ -1,7 +1,7 @@
 ### 👋 Hi there
 - 🌱 Welcome to my Github profile 📚
 
-- Ready to code a complete industrial solution
+- Ready to code anything
 
 
 
