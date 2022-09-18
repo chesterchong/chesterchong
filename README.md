@@ -1,7 +1,9 @@
 ### 👋 Hi there
 - 🌱 Welcome to my Github profile 📚
 
-- I mainly speak: Java, C++, and Solidity.
+- Ready to code a complete industrial solution
+
+
 
 
 <table width="100%">
