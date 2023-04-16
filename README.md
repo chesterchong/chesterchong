@@ -1,9 +1,6 @@
 ### 👋 Hi there
 - 🌱 Welcome to my Github profile 📚
 
-- Ready to code anything
-
-
 
 
 <table width="100%">
