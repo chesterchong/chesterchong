@@ -1,24 +1,12 @@
 ### 👋 Hi there
-- 🌱 Welcome to my Github profile 📚
 
 
-
-<table width="100%">
-  <tr>
-  <td width="50%">
-    
-&nbsp; <br> [![Spotify](https://readme-spotify-chesterchong.vercel.app/api/spotify)](https://open.spotify.com/user/hcchbmbacc1virxans1izbtgq)
-
-  </td>
-  <td width="50%">
-
-<br><p align="center"> ⭐ Hello ⭐ <br>
+<br><p align="center"> 🌱 Welcome to my Github profile 📚 <br>
     <br>
     [![Visits](https://komarev.com/ghpvc/?username=chesterchong&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/chesterchong)
     <br>
+
 </p>
-  </td>
-  </table>
 
 ---
 
