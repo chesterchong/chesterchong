@@ -1,11 +1,10 @@
 ### 👋 Hi there
 
 
-<br><p align="center"> 🌱 Welcome to my Github profile 📚 <br>
+<br><p align="center"> 🌱 Welcome to my Github profile 📚 <br><br><br>
 
 </p>
 
----
 
 ### 🔥 Github Stats
 
