@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github-readme-stats-chesterchong.vercel.app"><img src="https://github-readme-stats-chesterchong.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold" alt="Github Stats" title="Github Stats" /></a>
+      <a href="https://chester-readme-stats.vercel.app"><img src="https://chester-readme-stats.vercel.app/api?username=chesterchong&show_icons=true&theme=maroongold" alt="Github Stats" title="Github Stats" /></a>
     </td>
     <td>
-      <a href="https://github-readme-stats-chesterchong.vercel.app"><img align="center" src="https://github-readme-stats-chesterchong.vercel.app/api/top-langs/?username=chesterchong&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages" title="Top Languages" /></a>
+      <a href="https://chester-readme-stats.vercel.app"><img align="center" src="https://chester-readme-stats.vercel.app/api/top-langs/?username=chesterchong&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages" title="Top Languages" /></a>
     </td>
   </tr>
 </table>
